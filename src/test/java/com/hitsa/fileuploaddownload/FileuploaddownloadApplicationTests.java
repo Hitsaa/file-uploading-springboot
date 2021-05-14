@@ -1,10 +1,10 @@
-package com.greenlearner.fileUploadDownload;
+package com.hitsa.fileuploaddownload;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FileUploadDownloadApplicationTests {
+class FileuploaddownloadApplicationTests {
 
 	@Test
 	void contextLoads() {
