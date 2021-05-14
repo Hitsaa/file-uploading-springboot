@@ -6,7 +6,7 @@ import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author - GreenLearner(https://www.youtube.com/c/greenlearner)
+ * @author - Hitendra Singh Shekhawat (https://www.github.com/Hitsaa)
  */
 
 @Repository

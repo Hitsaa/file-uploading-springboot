@@ -1,7 +1,7 @@
 package com.hitsa.fileuploaddownload.dto;
 
 /**
- * @author - GreenLearner(https://www.youtube.com/c/greenlearner)
+ * @author - Hitendra Singh Shekhawat (https://www.github.com/Hitsaa)
  */
 public class FileUploadResponse {
 
